@@ -5,7 +5,6 @@ class Padre {
     }
     datosNombre() {
         console.log("Mi nombre es: " + this.nombre);
-
     }
 }
 
